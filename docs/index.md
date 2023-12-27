@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 查看示例
-      link: /markdown-examples
-    - theme: alt
-      text: API文档
-      link: /api-examples
+      link: /@memo28-business-ele/guide
+#    - theme: alt
+#      text: API文档
+#      link: /api-examples
 
 features:
   - title: 类型安全 🔒

@@ -30,6 +30,13 @@ export default defineConfig({
           { text: '引导', link: '/@memo28-business-ele/guide' },
           { text: 'API 文档', link: '/@memo28-business-ele/api' },
         ]
+      },
+      {
+        text: 'memo28.business/vue-page-animations',
+        items: [
+          { text: '引导', link: '/vue-page-animations/guide' },
+          { text: 'API 文档', link: '/vue-page-animations/slide' },
+        ]
       }
     ],
 

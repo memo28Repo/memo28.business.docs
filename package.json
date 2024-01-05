@@ -7,6 +7,7 @@
     "installAll": "pnpm install"
   },
   "dependencies": {
-    "cz-customizable": "^7.0.0"
+    "cz-customizable": "^7.0.0",
+    "vitepress": "1.0.0-rc.35"
   }
 }

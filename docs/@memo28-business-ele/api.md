@@ -15,7 +15,7 @@ import { indexReverseOrder } from '@memo28.business/ele'
 indexReverseOrder({
     pageSize,
     pageNo,
-    total
+    index
 })
 ```
 
@@ -28,7 +28,8 @@ import { sortIndexInOrder } from '@memo28.business/ele'
 sortIndexInOrder({
     pageSize,
     pageNo,
-    total
+    total,
+    index
 })
 ```
 

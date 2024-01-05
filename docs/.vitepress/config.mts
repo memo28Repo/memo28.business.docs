@@ -35,7 +35,7 @@ export default defineConfig({
         text: 'memo28.business/vue-page-animations',
         items: [
           { text: '引导', link: '/vue-page-animations/guide' },
-          { text: 'API 文档', link: '/vue-page-animations/slide' },
+          { text: 'Slide效果', link: '/vue-page-animations/slide' },
         ]
       }
     ],

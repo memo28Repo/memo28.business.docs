@@ -55,7 +55,7 @@ export default defineConfig({
             }
         ],
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/vuejs/vitepress'}
+            {icon: 'github', link: 'https://github.com/memo28Repo/memo28.business'}
         ]
     }
 })

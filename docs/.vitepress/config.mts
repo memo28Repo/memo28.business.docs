@@ -36,6 +36,7 @@ export default defineConfig({
         items: [
           { text: '引导', link: '/vue-page-animations/guide' },
           { text: 'Slide效果', link: '/vue-page-animations/slide' },
+          { text: 'fade效果', link: '/vue-page-animations/fade' },
         ]
       }
     ],
